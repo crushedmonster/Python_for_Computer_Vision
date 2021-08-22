@@ -13,7 +13,7 @@ In this section we will begin building an understanding of how to use the OpenCV
 * Directly interact with an image through callbacks.
 
 ## Opening Image Files 
-Run the script to open `00-puppy.jpg` from our [DATA](../DATA) folder.
+Run the following script to open `00-puppy.jpg` from our [DATA](../DATA) folder.
 
 ```
 python mypuppy.py
@@ -21,7 +21,7 @@ python mypuppy.py
 <img src="../assets/opening_mypuppy.gif" width="700" height="450" />
 
 ## Direct Drawing with Mouse - Part 1
-Run the script to draw green circles on a black image. 
+Run the following script to draw green circles on a black image. 
 
 ```
 python connecting_a_function_for_drawing.py
@@ -33,7 +33,7 @@ python connecting_a_function_for_drawing.py
 
 
 ## Direct Drawing with Mouse - Part 2
-Run the script to draw green and blue circles on a black image. 
+Run the following script to draw green and blue circles on a black image. 
 
 ```
 python adding_functionality_with_event_choices.py
