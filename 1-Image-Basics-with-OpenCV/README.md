@@ -52,5 +52,6 @@ Run the following script to drag and draw green rectangles on a black image.
 python dragging_with_mouse.py
 ```
 
-- To draw a green rectangle, press the left mouse button, drag to a desired point then release.
+- To draw a green rectangle, press the left mouse button, drag to a desired point, then release.
 
+<img src="../assets/drawing_green_rectangles.gif"/>
