@@ -14,7 +14,7 @@ In this section we will begin building an understanding of how to use the OpenCV
 * Draw simple geometries on images.
   * View notebook: [2_Drawing_on_Images](./2_Drawing_on_Images)
 * Directly interact with an image through callbacks.
-  * View notebooks: [3_Direct_Drawing_with_Mouse.ipynb](./3_Direct_Drawing_with_Mouse.ipynb)
+  * View notebook: [3_Direct_Drawing_with_Mouse.ipynb](./3_Direct_Drawing_with_Mouse.ipynb)
   * For the script version refer to the section [below](#direct-drawing-with-mouse---part-1).
 
 ## Opening Image Files 
