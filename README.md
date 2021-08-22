@@ -1,5 +1,5 @@
 # Python for Computer Vision with OpenCV and Deep Learning
-This repository contains my own learning materials for [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/) course by Jose Portilla.
+This repository contains learning resources and my solutions for [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/) course by Jose Portilla.
 
 ## Goals of this course:
 * Understand Computer Vision Applications
