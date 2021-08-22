@@ -7,9 +7,9 @@ This repository contains learning resources and my solutions for [Python for Com
 * Be able to apply these skills to real world projects
 
 ## Course Contents:
-* NumPy and Image Basics
+* [NumPy and Image Basics](./0-Numpy-and-Image-Basics)
   * Quick section on NumPy basics and how to manipulate images with it.
-* Image Basics with OpenCV
+* [Image Basics with OpenCV](./1-Image-Basics-with-OpenCV)
   * Begin to work with the OpenCV library with images.
   * Basic commands and drawings on images.
 * Image Processing with OpenCV
