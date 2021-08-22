@@ -21,9 +21,20 @@ python mypuppy.py
 <img src="../assets/opening_mypuppy.gif" width="700" height="450" />
 
 ## Direct Drawing with Mouse - Part 1
-Run the script to draw green circles on a black image.
+Run the script to draw green circles on a black image. 
+- To draw green circles, press the left mouse button.
+
+```
+python connecting_a_function_for_drawing.py
+```
+<img src="../assets/drawing_green_circles.gif"/>
+
+
+## Direct Drawing with Mouse - Part 2
+Run the script to draw green and blue circles on a black image. 
+- To draw green circles, press the left mouse button.
+- To draw blue circles, press the right mouse button.
 
 ```
 python adding_functionality_with_event_choices.py
 ```
-<img src="../assets/drawing_green_circles.gif"/>
