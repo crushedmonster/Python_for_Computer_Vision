@@ -41,3 +41,5 @@ python adding_functionality_with_event_choices.py
 
 - To draw green circles, press the left mouse button.
 - To draw blue circles, press the right mouse button.
+
+<img src="../assets/drawing_green_and_blue_circles.gif"/>
