@@ -26,3 +26,4 @@ Run the script to draw green circles on a black image.
 ```
 python adding_functionality_with_event_choices.py
 ```
+<img src="../assets/drawing_green_circles.gif"/>
