@@ -43,3 +43,14 @@ python adding_functionality_with_event_choices.py
 - To draw blue circles, press the right mouse button.
 
 <img src="../assets/drawing_green_and_blue_circles.gif"/>
+
+
+## Direct Drawing with Mouse - Part 3
+Run the following script to drag and draw green rectangles on a black image. 
+
+```
+python dragging_with_mouse.py
+```
+
+- To draw a green rectangle, press the left mouse button, drag to a desired point then release.
+
