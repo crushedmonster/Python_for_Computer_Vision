@@ -8,12 +8,12 @@ This repository contains my own learning materials for [Python for Computer Visi
 
 ## Course Contents:
 * NumPy and Image Basics
-  * Quick section on NumPy basics and how to manipulate images with it
+  * Quick section on NumPy basics and how to manipulate images with it.
 * Image Basics with OpenCV
-  * Begin to work with the OpenCV library with images
+  * Begin to work with the OpenCV library with images.
   * Basic commands and drawings on images.
 * Image Processing with OpenCV
-  * Understand more advanced OpenCV operations that are useful in real world applications
+  * Understand more advanced OpenCV operations that are useful in real world applications.
 * Video Processing with OpenCB
   * Understand the basics of working with videos files and streaming webcam video with OpenCV library.
 * Object Detection
