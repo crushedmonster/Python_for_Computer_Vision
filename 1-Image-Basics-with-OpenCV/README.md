@@ -74,3 +74,5 @@ python drawing_empty_red_circle_assessment.py
 ```
 
 - To draw empty red circles, press the right mouse button.
+
+<img src="../assets/empty_red_circles.gif"/>
