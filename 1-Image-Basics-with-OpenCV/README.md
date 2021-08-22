@@ -12,10 +12,17 @@ In this section we will begin building an understanding of how to use the OpenCV
 * Draw simple geometries on images.
 * Directly interact with an image through callbacks.
 
-## Opening Image Files Notebook
-1. Opening Images Files OpenCV Python Script
+## Opening Image Files 
 Run the script to open `00-puppy.jpg` from our [DATA](../DATA) folder.
 
 ```
 python mypuppy.py
+```
+<img src="../assets/opening_mypuppy.gif" width="700" height="450" />
+
+## Direct Drawing with Mouse - Part 1
+Run the script to draw green circles on a black image.
+
+```
+python adding_functionality_with_event_choices.py
 ```
