@@ -9,8 +9,13 @@ In this section we will begin building an understanding of how to use the OpenCV
 
 **Section Goals:**
 * Be able to open image files with OpenCV in both a notebook and a python script.
+  * View notebooks: [0_Opening_Image_Files_in_a_Notebook.ipynb](./0_Opening_Image_Files_in_a_Notebook.ipynb), [1_Opening_Images_with_OpenCV](./1_Opening_Images_with_OpenCV)
+  * For the script version refer to the section [below](#opening-image-files).
 * Draw simple geometries on images.
+  * View notebook: [2_Drawing_on_Images](./2_Drawing_on_Images)
 * Directly interact with an image through callbacks.
+  * View notebooks: [3_Direct_Drawing_with_Mouse.ipynb](./3_Direct_Drawing_with_Mouse.ipynb)
+  * For the script version refer to the section [below](#direct-drawing-with-mouse---part-1).
 
 ## Opening Image Files 
 Run the following script to open `00-puppy.jpg` from our [DATA](../DATA) folder.
@@ -55,3 +60,9 @@ python dragging_with_mouse.py
 - To draw a green rectangle, press the left mouse button, drag to a desired point, then release.
 
 <img src="../assets/drawing_green_rectangles.gif"/>
+
+## Final Assessment
+My solution for the final assessment can be found here: [4_Image_Basics_Assessment.ipynb](./4_Image_Basics_Assessment.ipynb)
+
+
+One of the task for the final assessment was to create a script that opens the `dog_backpack.jpg` from our [DATA](../DATA) folder and draw empty red circles whenever the right mouse button is clicked.
