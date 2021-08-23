@@ -12,7 +12,7 @@ This repository contains learning resources and my solutions for [Python for Com
 * [Image Basics with OpenCV](./1-Image-Basics-with-OpenCV)
   * Begin to work with the OpenCV library with images.
   * Basic commands and drawings on images.
-* Image Processing with OpenCV
+* [Image Processing with OpenCV](./2-Image-Processing)
   * Understand more advanced OpenCV operations that are useful in real world applications.
 * Video Processing with OpenCV
   * Understand the basics of working with videos files and streaming webcam video with OpenCV library.
