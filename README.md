@@ -14,7 +14,7 @@ This repository contains learning resources and my solutions for [Python for Com
   * Basic commands and drawings on images.
 * Image Processing with OpenCV
   * Understand more advanced OpenCV operations that are useful in real world applications.
-* Video Processing with OpenCB
+* Video Processing with OpenCV
   * Understand the basics of working with videos files and streaming webcam video with OpenCV library.
 * Object Detection
   * Learn the various different methods of detecting objects in images and videos.
