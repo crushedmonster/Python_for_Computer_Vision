@@ -15,4 +15,4 @@ View notebooks:
 * [6_Histograms.ipynb](./6_Histograms.ipynb)
 
 ## Final Assessment
-My solution for the final assessment can be found here: [7_Image_Processing_Assessment.ipynb](./7_Image_Processing_Assessment.ipynb)
+My solution for the image processing assessment can be found here: [7_Image_Processing_Assessment.ipynb](./7_Image_Processing_Assessment.ipynb)
