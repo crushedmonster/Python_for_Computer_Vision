@@ -14,5 +14,5 @@ View notebooks:
 * [5_Gradients.ipynb](./5_Gradients.ipynb)
 * [6_Histograms.ipynb](./6_Histograms.ipynb)
 
-## Final Assessment
+## Image Processing Assessment
 My solution for the image processing assessment can be found here: [7_Image_Processing_Assessment.ipynb](./7_Image_Processing_Assessment.ipynb)
