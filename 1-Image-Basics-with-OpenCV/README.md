@@ -65,7 +65,7 @@ python dragging_with_mouse.py
 My solution for the image basics assessment can be found here: [4_Image_Basics_Assessment.ipynb](./4_Image_Basics_Assessment.ipynb)
 
 
-One of the tasks for the final assessment was to create a script that opens the `dog_backpack.jpg` from our [DATA](../DATA) folder and draw empty red circles whenever the right mouse button is clicked.
+One of the tasks for the image basics assessment was to create a script that opens the `dog_backpack.jpg` from our [DATA](../DATA) folder and draw empty red circles whenever the right mouse button is clicked.
 
 Run the following script to draw empty red circles on `dog_backpack.jpg`. 
 
