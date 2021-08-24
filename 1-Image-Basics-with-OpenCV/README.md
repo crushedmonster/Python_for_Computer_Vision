@@ -61,8 +61,8 @@ python dragging_with_mouse.py
 
 <img src="../assets/drawing_green_rectangles.gif"/>
 
-## Final Assessment
-My solution for the final assessment can be found here: [4_Image_Basics_Assessment.ipynb](./4_Image_Basics_Assessment.ipynb)
+## Image Basics Assessment
+My solution for the image basics assessment can be found here: [4_Image_Basics_Assessment.ipynb](./4_Image_Basics_Assessment.ipynb)
 
 
 One of the tasks for the final assessment was to create a script that opens the `dog_backpack.jpg` from our [DATA](../DATA) folder and draw empty red circles whenever the right mouse button is clicked.
