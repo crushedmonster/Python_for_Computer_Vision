@@ -9,10 +9,10 @@ In this section we will begin building an understanding of how to use the OpenCV
 
 **Section Goals:**
 * Be able to open image files with OpenCV in both a notebook and a python script.
-  * View notebooks: [0_Opening_Image_Files_in_a_Notebook.ipynb](./0_Opening_Image_Files_in_a_Notebook.ipynb), [1_Opening_Images_with_OpenCV](./1_Opening_Images_with_OpenCV)
+  * View notebooks: [0_Opening_Image_Files_in_a_Notebook.ipynb](./0_Opening_Image_Files_in_a_Notebook.ipynb), [1_Opening_Images_with_OpenCV.ipynb](./1_Opening_Images_with_OpenCV.ipynb)
   * For the script version refer to the section [below](#opening-image-files).
 * Draw simple geometries on images.
-  * View notebook: [2_Drawing_on_Images](./2_Drawing_on_Images)
+  * View notebook: [2_Drawing_on_Images.ipynb](./2_Drawing_on_Images.ipynb)
 * Directly interact with an image through callbacks.
   * View notebook: [3_Direct_Drawing_with_Mouse.ipynb](./3_Direct_Drawing_with_Mouse.ipynb)
   * For the script version refer to the section [below](#direct-drawing-with-mouse---part-1).
